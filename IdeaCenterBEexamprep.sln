@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdeaCenterBEexamprep", "IdeaCenterBEexamprep\IdeaCenterBEexamprep.csproj", "{B619A1BC-1BFD-45F0-96E3-07442E76FA08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B619A1BC-1BFD-45F0-96E3-07442E76FA08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B619A1BC-1BFD-45F0-96E3-07442E76FA08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B619A1BC-1BFD-45F0-96E3-07442E76FA08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B619A1BC-1BFD-45F0-96E3-07442E76FA08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36A9CB89-7225-41C2-958D-C3B418954CFD}
+	EndGlobalSection
+EndGlobal
